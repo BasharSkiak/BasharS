@@ -20,7 +20,7 @@ or use it. It helps me a lot.
 
 <a href="https://github.com/roshdiraed"><img src="https://logodownload.org/wp-content/uploads/2019/08/github-logo.png"></a>
   
-Hey👋, I'm Roshdi Raed, A Full Stack Developer. <br>
+Hey👋, I'm  Bashar Skaik, A Full Stack Developer. <br>
 
 Until you Spread your wings, You'll never know how far you can fly!! <br>
   
